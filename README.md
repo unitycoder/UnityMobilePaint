@@ -1,5 +1,5 @@
 # Mobile Paint
-Public repository for MobilePaint issues &amp; requests.
+Public repository for Unity3D Mobile Paint plugin
 
 ## Reporting issues, feature requests, comments
 Feel free to post them at
