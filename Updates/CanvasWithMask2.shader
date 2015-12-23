@@ -45,7 +45,7 @@ Shader "UnityCoder/CanvasWithMask2"
 		{
 			fixed4 col1 = tex2D(_MainTex, i.uv);
 			fixed4 col2 = tex2D(_MaskTex, i.uv);
-			return (col1*(1-col2.a))+col2;
+			return col1*(1-col2.a);
 		}
 		ENDCG
 		}
