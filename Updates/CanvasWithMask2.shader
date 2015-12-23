@@ -1,3 +1,5 @@
+// _MaskTex needs alpha enabled, it is used as an overlay
+
 Shader "UnityCoder/CanvasWithMask2"
 {
 	Properties
