@@ -1,3 +1,5 @@
+** Note this Package is now free in asset store **
+
 # Mobile Paint
 Public repository for Unity3D Mobile Paint plugin
 
@@ -16,3 +18,6 @@ https://www.assetstore.unity3d.com/en/#!/content/19803?aid=1101lGti
 ## Website
 http://unitycoder.com/blog/2014/07/15/asset-store-mobile-paint/
 (with downloadable android build demos)
+
+## Unity Forum Thread
+https://forum.unity.com/threads/released-mobile-paint-with-multi-touch.262645/
