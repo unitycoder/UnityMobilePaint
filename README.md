@@ -1,4 +1,7 @@
-** Note this Package is now free in asset store **
+** Note this Package is free in the asset store **
+
+# News
+Added v1.96 sources here, so its possible to send pull request or report bugs easily (no guarantees on fixing them though, busy with other projects at the moment..)
 
 # Mobile Paint
 Public repository for Unity3D Mobile Paint plugin
