@@ -20,3 +20,6 @@ http://unitycoder.com/blog/2014/07/15/asset-store-mobile-paint/
 
 ### Unity Forum Thread
 https://forum.unity.com/threads/released-mobile-paint-with-multi-touch.262645/
+
+### License
+MIT, as long as the code from this repository is not being sold by itself as a paint plugin.
