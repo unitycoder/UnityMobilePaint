@@ -5,6 +5,7 @@ Public repository for Unity3D Mobile Paint plugin
 
 ### Alternative assets
 - Coloring Book plugin https://assetstore.unity.com/packages/tools/painting/coloring-book-paint-in-2d-268260?aid=1101lGti
+- other drawing plugins https://assetstore.unity.com/search#q=drawing?aid=1101lGti
 
 ## Pull Requests
 Added v1.96 sources here, so its possible to send pull request or report bugs easily (no guarantees on fixing them though, busy with other projects at the moment..). NOTE: For pull requests, please use unity version 2017.4.x or 2018.4.x (not upgrading project to 2019 anytime soon)
